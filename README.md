@@ -10,13 +10,13 @@ API key and UserId validation from headers
 
 MSSQL server as database
 
-custom access token generation and refresh token generation/validation
+custom access token generation and refresh token generation/validation with rotation
 
 refresh tokens are stored per user for multiple user logins
 
 Serilog with correaltionID in file sink
 
-register, login, refresh token and validation(for testing purpose) enpdoints
+register, login, refresh token and validation (for testing) enpdoints
 
 ### Dependencies
 
