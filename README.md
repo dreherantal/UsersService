@@ -24,11 +24,15 @@ docker compose for MSSQL attached
 
 EF database needs to be created
 
-best to use is with the API Gateway part of microservice (soon will be uploaded)
+best to use is with the API Gateway part of microservice
 
 ### To do list
 
 Add SEQ instead of file sink for Serilog
+
+Add third party token validation
+
+Add PKCE to login
 
 Add fluentvalidation for requests
 
